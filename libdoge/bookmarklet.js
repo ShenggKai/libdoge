@@ -1,7 +1,7 @@
 if (typeof(doge) === 'undefined') {
   var libdoge = document.createElement("script");
   libdoge.setAttribute("src",
-    "https://raw.github.com/ljalonen/libdoge/master/libdoge/libdoge-min.js");
+    "https://raw.githubusercontent.com/ShenggKai/libdoge/master/libdoge/libdoge-min.js");
   libdoge.onload = function() {
     controller.buyDoge();
   }
