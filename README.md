@@ -3,7 +3,7 @@ libdoge
 
 wow such good doge. doge will come to your pages and say content aware things lol.
 
-![wow screenshot](https://raw.github.com/ljalonen/libdoge/master/screenshots/libdoge.gif)
+![wow screenshot](https://raw.github.com/ShenggKai/libdoge/master/screenshots/libdoge.gif)
 
 ## Tipping
 So can tip **dogecoin**: DFU8ydPgDL6yzjDVFHdY3B333mEq61EJz3
@@ -16,7 +16,7 @@ Install Chrome extension available at [Chrome Store][chromestore]
 
 
 then just click doge that invaded your browser
-![wow screenshot](https://raw.github.com/ljalonen/libdoge/master/screenshots/chrome-extension.png)
+![wow screenshot](https://raw.github.com/ShenggKai/libdoge/master/screenshots/chrome-extension.png)
 
 
 ### Others Firefox, Safari, ... (and Chrome too) 
